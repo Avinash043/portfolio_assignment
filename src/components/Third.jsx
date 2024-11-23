@@ -26,22 +26,22 @@ function Third() {
           ))}
         </motion.div>
         <div className="text flex flex-col gap-5 w-2/3 snap-y overflow-auto no-scrollbar text-sm">
-          <div className="flex flex-col gap-2">
+          <div className="flex flex-col ">
             <h2 className="font-bold  slabo-27px-regular text-[#000]">
               Chief Technology Officer
             </h2>
             <h3 className="text-xs font-bold text-[#000]">Persist Ventures - Oct 2023 to Present</h3>
-            <p className="font-[600] text-[0.75rem] text-[#000] ">
+            <p className="font-[600] text-[0.75rem] text-[#000] pt-2">
               As CTO at Persist Ventures, I lead technological innovation,
               oversee product development, and align tech strategies with
               business goals. I drive scalable solutions, mentor teams, and
               ensure seamless tech execution.
             </p>
           </div>
-          <div className="flex flex-col gap-2">
+          <div className="flex flex-col">
             <h2 className="font-bold  slabo-27px-regular">AI Software Developer - Internship</h2>
             <h3 className="text-xs font-bold">HeyDaw Technologies - Aug 2023 to Oct 2023</h3>
-            <p className="font-[600] text-[0.75rem]">
+            <p className="font-[600] text-[0.75rem]  pt-2">
               As an AI Software Developer intern, I contributed to developing
               intelligent systems, enhancing NLP pipelines, and optimizing
               machine learning models. Collaborated with cross-functional teams
@@ -49,10 +49,10 @@ function Third() {
               challenges.
             </p>
           </div>
-          <div className="flex flex-col gap-2">
+          <div className="flex flex-col ">
             <h2 className="font-bold slabo-27px-regular">Software Engineer - Internship</h2>
             <h3 className="text-xs font-bold">Televerge Communications - May 2022 to Apr 2023</h3>
-            <p className="font-[600] text-[0.75rem] ">
+            <p className="font-[600] text-[0.75rem] pt-2">
               As a Software Engineer intern, I developed and optimized software
               solutions, contributed to system design, debugged applications,
               and collaborated with teams to deliver high-quality, scalable, and

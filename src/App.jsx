@@ -4,7 +4,7 @@ import First from "./components/First";
 import Last from "./components/Last";
 import Philosophies from "./components/Philosophies";
 import Second from "./components/Second";
-import Third from "./components/third";
+import Third from "./components/Third";
 
 function App() {
   return (
