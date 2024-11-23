@@ -1,0 +1,51 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer utilities {
+   
+    .no-scrollbar::-webkit-scrollbar {
+      display: none;
+    }
+}
+
+.lavishly-yours-regular {
+  font-family: "Lavishly Yours", cursive;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.poppins-extrabold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.slabo-27px-regular {
+  font-family: "Slabo", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.permanent-marker-regular {
+  font-family: "Permanent Marker", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.joti-one-regular {
+  font-family: "DynaPuff", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "width" 100;
+}
+
+.inknut-antiqua-bold {
+  font-family: "Inknut Antiqua", serif;
+  font-weight: 700;
+  font-style: normal;
+}
